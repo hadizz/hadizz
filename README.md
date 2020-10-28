@@ -7,4 +7,3 @@
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: hadizareoriginal@gmail.com
 - 😄 Pronouns: Hadiz
-- ⚡ Fun fact: I live in Iran 🚶🏻‍♂️
