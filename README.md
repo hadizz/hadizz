@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with Vue
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: hadizareoriginal@gmail.com
-- 😄 Pronouns: Hadiz
+- 😄 Pronouns: he/him
