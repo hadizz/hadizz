@@ -8,3 +8,8 @@
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: hadizareoriginal@gmail.com
 - 😄 Pronouns: he/him
+
+## &#x1f4c8; GitHub Stats
+
+[![Hadi's github stats](https://github-readme-stats.vercel.app/api?username=hadizz&show_icons=true&line_height=21&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadizz&show_icons=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
