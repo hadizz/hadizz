@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hadi Zare | Software Engineer
+
+## About Me 👋
 
 Experienced Senior Frontend Developer with **6 years** of experience in software development. Passionate about open-source projects and proficient in a variety of languages and frameworks such as **JavaScript**, **TypeScript**, **ReactJS**, and more. Successfully led multiple projects resulting in improved operational efficiency, user experiences, and marketing sales. Looking to leverage my skills to further enhance user experience and contribute to growth in a challenging role.
 
