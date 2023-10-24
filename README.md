@@ -24,4 +24,4 @@ Experienced Senior Frontend Developer with **6 years** of experience in software
 ## How to reach me
 email: hadizare.work@gmail.com
 
-linkedin: https://linkedin.com/in./hadizare
+linkedin: https://linkedin.com/in/hadizare
