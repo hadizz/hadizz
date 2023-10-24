@@ -21,7 +21,7 @@ Experienced Senior Frontend Developer with **6 years** of experience in software
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadizz&show_icons=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-## How to reach me
+## Contact Info
 email: hadizare.work@gmail.com
 
 linkedin: https://linkedin.com/in/hadizare
