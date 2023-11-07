@@ -1,4 +1,4 @@
-# Hadi Zare | Software Engineer
+# Hadi Zare | Frontend Engineer
 
 ## About Me 👋
 
